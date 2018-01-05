@@ -34,7 +34,17 @@
 **Link(s) to work:**
 1. [100_days_of_code_log_script](https://github.com/mostriki/100_days_of_code_log_script)
 
-### Log 5: January 01, Monday
+### Log 5: January 02, Tuesday
+
+### Log 6: January 03, Wednesday
+
+### Log 7: January 04, Thursday
+
+**Progress:** Interviewed for 4 different internships. I spent most of my time commuting or reading up on each company. I did get in some lessons on Free Code Camp and Hired in Tech though.
+
+**Thoughts:** I got my first white board question this week. I'm not happy with how I performed. It was for the internship that I wanted the most. I'm trying not to be too hard on myself, because the rest of the interviews went great. I actually think I liked the other companies even more. Two in particular got me really pumped, so tomorrow I'm going to play with their preferred languages. Python and PHP discovery day! Here I come!
+
+### Log 8: January 05, Friday
 
 **Today's Progress:**
 
